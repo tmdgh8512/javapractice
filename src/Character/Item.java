@@ -6,7 +6,7 @@ public class Item {
 	private int Item_Code;
 	private int Item_Count;
 	private long Item_GUID;
-
+	
 	public Item(String Name, int Code, long GUID, int Count) {
 
 		this.Item_Name = Name;
